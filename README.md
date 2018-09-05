@@ -7,4 +7,4 @@ npm install
 
 gulp
 
-(and modify any .js file in /src directory, save changes, and the /dist will be created...)
+(then modify any .js file in /src directory, save changes, and /dist will be created...)
